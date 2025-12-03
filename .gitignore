@@ -1,0 +1,29 @@
+# Build artifacts
+build/
+*.o
+*.a
+*.so
+*.dylib
+
+# Executables
+basic_control
+discovery
+scenes
+pilot_builder
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+.clang-format
+.editorconfig
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.dSYM/
+*.su
